@@ -1,4 +1,4 @@
 export const test = {
-  testCommand: "starter-kit://fetchData?type=collection",
+  testCommand: "zapp-pipes-provider-ts://fetchData?type=collection",
   requestMocks: []
 };
