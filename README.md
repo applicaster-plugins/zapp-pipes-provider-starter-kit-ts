@@ -1,9 +1,9 @@
-# zapp-pipes-provider-ts
+# zapp-pipes-provider-starter-kit-ts
 A starter project for development of data source provider
 
 In order to create a new provider, it is advised to start from the starter project in order to make sure the provider respects the Zapp-pipes api, and can be smoothly integrated.
 
-A Provider consists of an npm package published publicly.
+A Provider consists of an npm package published privately in the applicaster npmjs repository. Contact us on slack if you need more information about npmjs private packages.
 
 ### Provider Api
 

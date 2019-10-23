@@ -3,7 +3,7 @@ import { handler } from "./handler";
 import { test } from "./test";
 
 const provider = {
-  name: "zapp-pipes-provider-ts",
+  name: "starter-kit-ts",
   manifest,
   handler,
   test
