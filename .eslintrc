@@ -1,0 +1,25 @@
+{
+  "plugins": ["babel", "jest"],
+  "extends": ["plugin:@typescript-eslint/recommended", "prettier/@typescript-eslint", "plugin:prettier/recommended"],
+  "env": {
+    "jest/globals": true
+  },
+  "rules": {
+    "import/no-extraneous-dependencies": 0,
+    "object-curly-newline": 0,
+    "function-paren-newline": 0,
+    "camelcase": 1,
+    "arrow-parens": 0,
+    "comma-dangle": 0,
+    "import/prefer-default-export": 0,
+    "prefer-promise-reject-errors": 0,
+    "class-methods-use-this": 0,
+    "no-underscore-dangle": 0,
+    "no-confusing-arrow": 0
+  },
+  "parser": "@typescript-eslint/parser",
+  "parserOptions":  {
+    "ecmaVersion":  2018,  // Allows for the parsing of modern ECMAScript features
+    "sourceType":  "module"  // Allows for the use of imports
+  }
+}
