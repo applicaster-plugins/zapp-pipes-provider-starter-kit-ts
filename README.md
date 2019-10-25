@@ -1,4 +1,4 @@
-# zapp-pipes-provider-starter-kit
+# zapp-pipes-provider-starter-kit-ts
 A starter project for development of data source provider
 
 In order to create a new provider, it is advised to start from the starter project in order to make sure the provider respects the Zapp-pipes api, and can be smoothly integrated.
